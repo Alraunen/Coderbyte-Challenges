@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alraunen.KaprekarsConstant", "Alraunen.KaprekarsConstant\Alraunen.KaprekarsConstant.csproj", "{232519DE-6984-4458-BB18-C9005E8A763E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alraunen.ClosestEnemyII", "Alraunen.ClosestEnemyII\Alraunen.ClosestEnemyII.csproj", "{C5839025-DE22-47BC-A402-2E7562129B1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{232519DE-6984-4458-BB18-C9005E8A763E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232519DE-6984-4458-BB18-C9005E8A763E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232519DE-6984-4458-BB18-C9005E8A763E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232519DE-6984-4458-BB18-C9005E8A763E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5839025-DE22-47BC-A402-2E7562129B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5839025-DE22-47BC-A402-2E7562129B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5839025-DE22-47BC-A402-2E7562129B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5839025-DE22-47BC-A402-2E7562129B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
